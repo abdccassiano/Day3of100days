@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Day 3 of 100 days</string>
+    <string name="action_setthings">Settings</string>
+    <string name="lenguajes">Select Lenguage</string>
+
+    <string-array name="lenguages_arr">
+        <item>SELECT LENGUAGE</item>
+        <item>PHP</item>
+        <item>JAVASCRIPT</item>
+        <item>PYTHON</item>
+        <item>JAVA</item>
+        <item>RUBY</item>
+        <item>PERL</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>PASCAL</item>
+        <item>C</item>
+    </string-array>
+</resources>
